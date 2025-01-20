@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+li ,h1,ul{
+    display: inline-block;
+}
+
+header nav{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+header nav ul{
+    margin-left: 60%;
+   
+}
+
+li{
+    color:white;
+}
+
+
+
+
+input{
+    width: 60%;
+    padding: 15px;
+}
+
+.searchbar{
+    padding: 20px;
+    text-align: center;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+}
+.box{
+    border: 2px solid lavender;
+    display: inline-block;
+    width: 230px;
+    margin: 10px;
+    padding: 5px;
+}
+
+.box:hover{
+background-color: black;
+color: white;
+ box-shadow: 3px 3px 2px grey;
+}
+
+

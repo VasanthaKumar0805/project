@@ -1,0 +1,71 @@
+
+.row-3{
+    margin-top: 30px ;
+    margin-left: 30px;
+    
+}
+.card-1{
+
+    width: 100px;
+    height: 200px;
+    
+    padding: 70px;
+    margin-top: 10px;
+    background-image: linear-gradient(to top,navy,#FF1493);
+    color: white;
+    border-radius: 20px;
+}
+
+.card-2{
+
+    width: 100px;
+    height: 200px;
+    border-radius: 20px;
+    padding: 70px;
+    margin-top: 20px;
+    background-image: linear-gradient(to top,navy,#FF1493);
+    color: white;
+}
+
+
+.card-3{
+
+    width: 100px;
+    height: 200px;
+    padding: 70px;
+    margin-top: 50px;
+    color: white;
+    background-image: linear-gradient(to top,navy, #FF1493);
+    border-radius: 20px;
+}
+
+
+.card-4{
+
+    width: 100px;
+    height: 200px;
+    padding: 70px;
+    margin-top: 80px;
+    border-radius: 20px;
+    background-image: linear-gradient(to top,navy, #FF1493);
+    color: white;
+}
+
+h4{
+    color: #191970;
+}
+
+button{
+    
+    background-image: linear-gradient(to left,navy, #FF1493);
+    width: 70%;
+    padding: 5px;
+    color: white;
+    letter-spacing: 5;
+    font-weight: 500;
+   border: none;
+}
+.page{
+    background-color: blue;
+    color: white;
+}
